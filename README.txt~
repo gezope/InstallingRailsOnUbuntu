@@ -7,7 +7,7 @@
 # 2. Completely uninstall Ruby;
 
 # 3. Install all RVM packages before starting installing Ruby;
-# 4. Install all packages which for your OS (I'm on Ubuntu, check your specific needs on your OS, not absolutely necessary);
+# 4. Install all packages which for your OS (I'm on Ubuntu, check your specific needs on your OS);
 
 # 5. Install Ruby with the needed and preinstaled RVM packages.
 # 6. Optional: If you are using elder Ruby you might need to install Rubygems too (not for 1.9.2, only elder versions).
