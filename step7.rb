@@ -5,7 +5,7 @@ $ gem install autotest -v 4.4.6
 $ gem install autotest-rails-pure -v 4.1.2
 $ gem install autotest-fsevent -v 0.2.4
 $ gem install autotest-growl -v 0.2.9
-$ gem install autotest-notification ZenTest redgreen
+$ gem install autotest-notification ZenTest redgreen autotest-standalone
 
 # For autotest follow these instruciotns:
 # http://automate-everything.com/2009/08/gnome-and-autospec-notifications/
