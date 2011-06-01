@@ -7,6 +7,10 @@ $ gem install autotest-fsevent -v 0.2.4
 $ gem install autotest-growl -v 0.2.9
 $ gem install autotest-notification ZenTest redgreen
 
+# For autotest follow these instruciotns:
+# http://automate-everything.com/2009/08/gnome-and-autospec-notifications/
+$ sudo apt-get install libnotify-bin
+
 # Important: check if everything works fine
 $ rvm -v
 $ rvm list
