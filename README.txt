@@ -10,7 +10,8 @@
 # 4. Install all packages which for your OS (I'm on Ubuntu, check your specific needs on your OS, not absolutely necessary);
 
 # 5. Install Ruby with the needed and preinstaled RVM packages.
-# 6. Optional: If you are using elder Ruby you might need to install Rubygems too (not for 1.9.2, only elder versions).
+# 6. Install Gemsets to avoid confusion with updates and gem versions
+# Optional: If you are using elder Ruby you might need to install Rubygems too (not for 1.9.2, only elder versions).
 
 # 7. Install your gems, for example Rails, but important note: do not use 'sudo' as you would without using RVM. Check if everything works fine.
 
