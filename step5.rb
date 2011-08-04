@@ -3,6 +3,9 @@
 # Install Ruby version 1.9.2 with RVM.
 $ rvm install 1.9.2 --with-readline-dir=$rvm_path/usr --with-iconv-dir=$rvm_path/usr --with-zlib-dir=$rvm_path/usr --with-openssl-dir=/usr/local 
 
+# You may wanna use specific solution if you have problems with Rake "stack too deep"
+$ rvm install 1.9.2-p0 --with-readline-dir=$rvm_path/usr --with-iconv-dir=$rvm_path/usr --with-zlib-dir=$rvm_path/usr --with-openssl-dir=/usr/local 
+
 # Set the default Ruby to use.
 $ rvm use 1.9.2
 
