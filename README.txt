@@ -1,3 +1,6 @@
+This project is moved and now a simple install script is available.
+Please visit https://github.com/gezope/rvm_install_script and install RVM, Ruby1.9 and RubyOnRails3 on Ubuntu wiht one click.
+
 == README ==
 
 # Howto install Rails from 0
